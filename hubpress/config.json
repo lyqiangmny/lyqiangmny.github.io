@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "lyqiangmny",
-    "repositoryName": "lyqiangmny.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"lyqiangmny","repositoryName":"lyqiangmny.github.io","branch":"master"},"site":{"title":"lyqiangmny's Blog","url":"https://lyqiangmny.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//lyqiangmny.github.io/themes/Casper"}}
